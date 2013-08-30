@@ -1,4 +1,5 @@
-== DEPENDENCIES ==
+DEPENDENCIES
+==
 	* YCSB-Installation + zu testende Cloudumgebung (getestet nur mit Cassandra)
 	* R inkl. package "zoo"
 	* GateOne + Ausführung in GateOne Terminal (Ausgabe von Bildern mit "cat")
